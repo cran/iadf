@@ -4,8 +4,13 @@
 \alias{campelo_chapman_find_start}
 \title{campelo_chapman_find_start}
 \usage{
-campelo_chapman_find_start(campelo_freq_object, min.n = 15, max_a = 3,
-  max_b = 1, max_c = 17)
+campelo_chapman_find_start(
+  campelo_freq_object,
+  min.n = 15,
+  max_a = 3,
+  max_b = 1,
+  max_c = 17
+)
 }
 \arguments{
 \item{campelo_freq_object}{a campelo frequency object,
@@ -21,9 +26,11 @@ model estimation}
 \item{max_c}{maximum value of manipulate slider for parameter c}
 }
 \value{
-a list which can be used as input argument 'start' in \code{\link{campelo_chapman}}
+a list which can be used as input argument 'start' in
+\code{\link{campelo_chapman}}
 }
 \description{
-Find good start values manually in case \code{\link{campelo_chapman}}
+Find good start values manually in case
+\code{\link{campelo_chapman}}
   returns an error caused by insufficient default starting values.
 }

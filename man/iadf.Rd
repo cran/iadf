@@ -3,8 +3,8 @@
 \docType{package}
 \name{iadf}
 \alias{iadf}
-\alias{iadf-package}
 \title{iadf}
 \description{
-calculate false ring proportions from data frames of intra annual density fluctuations
+calculate false ring proportions from data frames of intra annual
+density fluctuations
 }
