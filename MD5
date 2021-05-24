@@ -1,4 +1,4 @@
-19657d9b3561d7bea5ec1599c3e46c33 *DESCRIPTION
+4baaca9d799f91c2342a961a10726f1b *DESCRIPTION
 4daadb8ce951a7ca0a4bfb9b058c7072 *NAMESPACE
 4b77c2de4fca82a89a47a469d61565ef *NEWS.md
 4c791ef7920f45e12f2cbe5e9032aedc *R/data.R
@@ -7,12 +7,12 @@
 f1d5d77d31e5fce88c1c7495a3693174 *R/internals.R
 098753b912e62eafe2dd2e0980bdf453 *R/tidy.R
 6a73c4a5d347709ba51a3c3fabb86967 *README.md
-14a71895deaa3ccd2ba9ebcda0707129 *build/vignette.rds
+2bf6e5f7f78e1b4bbbcf25582ccce4fc *build/vignette.rds
 5bde0ef442d39f3170f49c510373efcd *data/example_iadf.RData
 19abfe557e6491c434b66bd3d380b7ab *data/example_rwl.RData
 20c4808c817dae5c4debd1b5b5c37f36 *inst/doc/falsering-proportion.R
 9b1682179f9fbf914d275324a46ed7ee *inst/doc/falsering-proportion.Rmd
-252b9d1ad704bad1f90062a7d6044227 *inst/doc/falsering-proportion.html
+fd74a550550f4a649fe408e32c75faa0 *inst/doc/falsering-proportion.html
 6a39f3dd3e9ed08d89405b91f3b5e7bf *man/afrp.Rd
 9824d25543baa2e934ba6395f62cd34a *man/campelo_chapman.Rd
 c397b8af91a7a20acd24036a5bc3ce3e *man/campelo_chapman_find_start.Rd
